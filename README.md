@@ -1,2 +1,2 @@
-https://github.com/drakooonchik/ono-tebe-nado-fd
+https://github.com/drakooonchik-hub/ono-tebe-nado-fd.git
 
